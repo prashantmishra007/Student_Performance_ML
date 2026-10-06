@@ -1,0 +1,2 @@
+Model,Test_Samples,MAE,RMSE,R2_Score
+Multiple Linear Regression (OLS),200,7.09,9.2,0.5962

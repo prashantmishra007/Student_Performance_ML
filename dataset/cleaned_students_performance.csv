@@ -1,0 +1,1001 @@
+gender,race_ethnicity,parental_level_of_education,lunch,test_preparation_course,math_score,reading_score,writing_score,total_score,average_score
+female,group D,some college,free/reduced,none,69,79,80,228,76.0
+male,group C,some college,free/reduced,completed,100,76,75,251,83.67
+female,group C,some high school,standard,completed,49,60,65,174,58.0
+female,group D,high school,free/reduced,none,64,67,64,195,65.0
+female,group D,some college,standard,completed,87,76,79,242,80.67
+male,group B,some college,standard,none,74,70,72,216,72.0
+female,group E,some college,free/reduced,completed,67,67,71,205,68.33
+female,group D,some college,standard,none,53,67,75,195,65.0
+female,group E,associate's degree,free/reduced,completed,72,67,66,205,68.33
+male,group D,associate's degree,free/reduced,none,53,67,64,184,61.33
+female,group C,associate's degree,standard,none,39,48,52,139,46.33
+female,group C,associate's degree,free/reduced,none,82,82,87,251,83.67
+female,group E,master's degree,standard,completed,91,91,92,274,91.33
+female,group D,some high school,standard,completed,78,74,80,232,77.33
+male,group A,high school,standard,completed,80,77,78,235,78.33
+female,group A,some high school,free/reduced,completed,85,73,80,238,79.33
+male,group C,associate's degree,standard,none,75,78,75,228,76.0
+male,group D,bachelor's degree,standard,none,86,75,66,227,75.67
+male,group E,high school,free/reduced,none,60,55,54,169,56.33
+female,group B,bachelor's degree,free/reduced,none,84,79,78,241,80.33
+male,group C,some high school,free/reduced,none,69,70,65,204,68.0
+female,group C,bachelor's degree,standard,none,75,72,73,220,73.33
+male,group E,high school,standard,none,53,50,45,148,49.33
+male,group D,some high school,standard,none,76,67,54,197,65.67
+male,group D,some college,free/reduced,none,52,46,43,141,47.0
+male,group C,high school,standard,none,62,73,70,205,68.33
+male,group C,high school,standard,completed,65,58,50,173,57.67
+male,group B,high school,free/reduced,completed,53,61,59,173,57.67
+male,group A,associate's degree,standard,completed,100,84,88,272,90.67
+male,group D,some college,free/reduced,none,84,67,69,220,73.33
+female,group D,high school,free/reduced,none,93,87,96,276,92.0
+female,group E,associate's degree,free/reduced,completed,51,67,73,191,63.67
+male,group E,associate's degree,standard,none,73,65,68,206,68.67
+male,group C,high school,standard,none,53,63,57,173,57.67
+male,group D,some college,free/reduced,none,54,63,57,174,58.0
+female,group E,some high school,free/reduced,none,50,67,57,174,58.0
+male,group D,high school,free/reduced,none,83,70,72,225,75.0
+female,group B,associate's degree,standard,none,66,63,75,204,68.0
+female,group C,high school,free/reduced,completed,85,78,78,241,80.33
+female,group B,some college,free/reduced,none,73,76,77,226,75.33
+female,group E,associate's degree,free/reduced,none,99,94,90,283,94.33
+female,group C,some high school,free/reduced,completed,47,44,53,144,48.0
+male,group B,some college,free/reduced,none,83,73,75,231,77.0
+male,group D,high school,standard,none,89,78,65,232,77.33
+male,group C,master's degree,standard,completed,62,58,58,178,59.33
+male,group C,some college,standard,none,87,84,77,248,82.67
+male,group B,associate's degree,standard,none,77,72,69,218,72.67
+female,group D,some college,standard,none,69,82,86,237,79.0
+male,group C,some high school,standard,none,60,57,55,172,57.33
+male,group D,associate's degree,standard,none,61,66,63,190,63.33
+female,group C,master's degree,standard,completed,100,100,98,298,99.33
+male,group D,associate's degree,standard,none,72,75,76,223,74.33
+female,group C,associate's degree,free/reduced,none,76,69,75,220,73.33
+male,group C,bachelor's degree,free/reduced,none,52,52,52,156,52.0
+female,group D,high school,standard,none,60,65,63,188,62.67
+male,group C,high school,free/reduced,none,80,74,68,222,74.0
+male,group B,associate's degree,standard,none,52,59,62,173,57.67
+female,group A,some college,standard,none,66,65,69,200,66.67
+female,group D,bachelor's degree,standard,none,73,75,81,229,76.33
+female,group C,bachelor's degree,standard,none,74,61,75,210,70.0
+female,group D,high school,free/reduced,none,61,78,85,224,74.67
+female,group B,high school,free/reduced,completed,75,72,76,223,74.33
+female,group B,associate's degree,standard,none,82,81,80,243,81.0
+female,group A,high school,standard,none,83,79,68,230,76.67
+female,group C,bachelor's degree,standard,none,57,73,75,205,68.33
+male,group C,some college,standard,completed,73,47,45,165,55.0
+male,group C,associate's degree,standard,none,90,77,74,241,80.33
+female,group C,some high school,standard,completed,90,84,85,259,86.33
+male,group E,associate's degree,free/reduced,completed,48,49,47,144,48.0
+male,group C,some college,free/reduced,completed,74,79,65,218,72.67
+male,group C,some college,standard,none,42,42,38,122,40.67
+male,group D,some high school,free/reduced,none,65,67,66,198,66.0
+female,group C,associate's degree,standard,completed,100,93,100,293,97.67
+male,group C,bachelor's degree,standard,completed,63,70,66,199,66.33
+female,group D,high school,standard,completed,64,65,71,200,66.67
+male,group E,some high school,standard,none,83,68,70,221,73.67
+male,group B,some high school,free/reduced,none,41,55,50,146,48.67
+male,group E,associate's degree,standard,none,63,64,63,190,63.33
+female,group C,associate's degree,standard,completed,86,72,71,229,76.33
+male,group B,some college,standard,none,62,56,59,177,59.0
+female,group C,high school,standard,none,68,75,79,222,74.0
+male,group E,some college,free/reduced,completed,80,77,74,231,77.0
+female,group C,some college,standard,none,78,73,72,223,74.33
+male,group C,some college,standard,completed,81,51,54,186,62.0
+female,group C,master's degree,standard,none,67,75,88,230,76.67
+female,group B,some high school,standard,none,78,69,68,215,71.67
+male,group A,associate's degree,standard,none,70,51,49,170,56.67
+female,group B,some college,free/reduced,completed,76,57,64,197,65.67
+male,group B,some college,standard,none,65,68,69,202,67.33
+male,group B,associate's degree,free/reduced,none,61,61,56,178,59.33
+male,group B,associate's degree,free/reduced,completed,54,54,39,147,49.0
+male,group C,master's degree,free/reduced,none,63,71,74,208,69.33
+male,group B,some high school,standard,none,60,63,64,187,62.33
+male,group C,some high school,standard,none,55,67,55,177,59.0
+male,group D,associate's degree,standard,none,76,59,54,189,63.0
+male,group C,some college,free/reduced,completed,72,66,71,209,69.67
+male,group D,high school,standard,none,84,62,67,213,71.0
+male,group B,some high school,standard,none,66,61,64,191,63.67
+male,group B,some high school,standard,none,78,68,64,210,70.0
+female,group A,bachelor's degree,standard,completed,85,86,88,259,86.33
+female,group B,high school,standard,none,79,79,80,238,79.33
+male,group B,high school,standard,none,60,63,66,189,63.0
+male,group B,high school,free/reduced,none,66,68,60,194,64.67
+male,group A,high school,standard,none,77,84,74,235,78.33
+male,group B,some high school,standard,none,72,64,66,202,67.33
+male,group C,some college,standard,none,41,41,42,124,41.33
+male,group B,some high school,standard,completed,79,72,75,226,75.33
+male,group C,associate's degree,standard,none,100,77,69,246,82.0
+male,group C,high school,free/reduced,completed,64,72,68,204,68.0
+female,group D,some college,standard,completed,66,69,68,203,67.67
+male,group A,bachelor's degree,free/reduced,none,70,61,59,190,63.33
+female,group D,associate's degree,standard,none,77,74,70,221,73.67
+male,group C,some college,standard,none,90,82,74,246,82.0
+male,group A,high school,free/reduced,completed,50,52,44,146,48.67
+female,group D,high school,standard,none,83,76,82,241,80.33
+male,group E,associate's degree,standard,none,81,83,81,245,81.67
+female,group A,master's degree,standard,none,70,67,62,199,66.33
+male,group B,associate's degree,standard,completed,82,72,75,229,76.33
+male,group D,some college,free/reduced,completed,84,78,86,248,82.67
+female,group D,associate's degree,standard,none,85,71,75,231,77.0
+male,group B,some college,free/reduced,completed,52,58,53,163,54.33
+female,group B,some high school,free/reduced,none,76,69,87,232,77.33
+male,group C,some college,standard,none,71,71,61,203,67.67
+female,group C,master's degree,free/reduced,completed,70,66,70,206,68.67
+female,group C,some high school,standard,none,73,80,83,236,78.67
+male,group C,associate's degree,free/reduced,none,62,68,72,202,67.33
+male,group C,high school,standard,none,90,83,79,252,84.0
+female,group D,some college,free/reduced,completed,68,74,74,216,72.0
+male,group A,some high school,standard,completed,60,57,51,168,56.0
+male,group B,some college,standard,none,66,59,55,180,60.0
+male,group D,associate's degree,standard,completed,80,81,71,232,77.33
+female,group D,high school,free/reduced,none,82,75,78,235,78.33
+female,group C,associate's degree,standard,none,81,72,72,225,75.0
+female,group C,associate's degree,standard,none,59,71,67,197,65.67
+female,group B,bachelor's degree,free/reduced,none,100,85,93,278,92.67
+female,group C,high school,free/reduced,none,68,65,67,200,66.67
+female,group C,some college,free/reduced,completed,88,74,71,233,77.67
+female,group B,some high school,free/reduced,none,62,65,68,195,65.0
+female,group B,master's degree,free/reduced,none,72,74,77,223,74.33
+female,group C,bachelor's degree,free/reduced,none,77,79,72,228,76.0
+male,group A,some college,standard,none,90,84,80,254,84.67
+female,group C,bachelor's degree,standard,completed,93,90,85,268,89.33
+male,group B,some college,free/reduced,none,77,68,73,218,72.67
+male,group C,associate's degree,standard,none,67,62,62,191,63.67
+male,group B,some high school,standard,completed,68,67,62,197,65.67
+female,group D,associate's degree,standard,none,77,86,83,246,82.0
+female,group C,some high school,free/reduced,none,78,79,81,238,79.33
+female,group D,bachelor's degree,standard,none,69,69,76,214,71.33
+female,group D,associate's degree,standard,none,88,77,79,244,81.33
+male,group C,associate's degree,standard,completed,99,72,67,238,79.33
+female,group A,some high school,standard,completed,63,73,76,212,70.67
+female,group C,high school,standard,none,59,70,70,199,66.33
+female,group C,high school,standard,completed,75,80,80,235,78.33
+female,group D,high school,standard,none,77,76,68,221,73.67
+female,group C,some high school,free/reduced,none,56,74,82,212,70.67
+male,group B,bachelor's degree,standard,none,92,75,72,239,79.67
+female,group B,some college,free/reduced,none,70,80,78,228,76.0
+male,group C,high school,free/reduced,none,65,62,69,196,65.33
+female,group C,some college,standard,none,50,57,63,170,56.67
+male,group C,some college,free/reduced,completed,49,57,50,156,52.0
+female,group C,associate's degree,standard,none,76,79,85,240,80.0
+female,group E,some college,free/reduced,none,32,53,61,146,48.67
+male,group C,bachelor's degree,standard,none,87,76,74,237,79.0
+male,group B,some college,free/reduced,none,62,60,56,178,59.33
+male,group B,master's degree,standard,none,100,100,94,294,98.0
+female,group B,bachelor's degree,standard,none,100,99,97,296,98.67
+male,group B,high school,standard,completed,74,72,71,217,72.33
+female,group B,bachelor's degree,free/reduced,none,62,69,63,194,64.67
+female,group B,some high school,free/reduced,none,79,85,84,248,82.67
+male,group B,associate's degree,standard,none,98,85,88,271,90.33
+male,group B,some college,standard,none,47,51,47,145,48.33
+female,group D,bachelor's degree,standard,none,45,56,59,160,53.33
+female,group A,bachelor's degree,free/reduced,completed,60,66,68,194,64.67
+male,group C,associate's degree,standard,none,81,49,43,173,57.67
+male,group C,associate's degree,free/reduced,none,71,67,53,191,63.67
+male,group E,high school,standard,none,88,72,67,227,75.67
+female,group B,some high school,standard,none,54,75,78,207,69.0
+female,group C,some college,standard,none,37,53,59,149,49.67
+female,group E,some high school,standard,completed,90,77,79,246,82.0
+female,group D,associate's degree,standard,none,60,67,71,198,66.0
+female,group D,high school,standard,completed,47,52,63,162,54.0
+female,group B,master's degree,free/reduced,none,66,74,76,216,72.0
+male,group B,associate's degree,standard,completed,89,78,70,237,79.0
+female,group D,bachelor's degree,standard,none,70,80,81,231,77.0
+female,group E,some high school,standard,completed,70,67,74,211,70.33
+female,group C,bachelor's degree,standard,none,70,73,83,226,75.33
+male,group C,bachelor's degree,standard,completed,71,56,51,178,59.33
+female,group B,some college,standard,none,52,67,71,190,63.33
+female,group D,associate's degree,standard,none,61,71,76,208,69.33
+male,group B,associate's degree,standard,none,80,74,65,219,73.0
+female,group C,some high school,standard,completed,82,80,82,244,81.33
+female,group C,some college,standard,none,75,79,74,228,76.0
+female,group C,some college,standard,completed,62,79,72,213,71.0
+female,group B,some high school,standard,none,69,70,75,214,71.33
+female,group B,high school,free/reduced,none,31,51,55,137,45.67
+male,group C,some high school,standard,none,75,60,59,194,64.67
+male,group B,some high school,free/reduced,completed,90,71,67,228,76.0
+male,group C,some high school,standard,completed,55,57,51,163,54.33
+female,group B,master's degree,free/reduced,completed,60,75,78,213,71.0
+female,group C,some college,free/reduced,none,69,71,68,208,69.33
+female,group C,master's degree,standard,none,91,84,92,267,89.0
+male,group A,some college,free/reduced,completed,62,57,49,168,56.0
+female,group C,high school,standard,none,62,64,67,193,64.33
+female,group B,some college,standard,completed,47,61,61,169,56.33
+male,group A,some college,free/reduced,completed,71,55,57,183,61.0
+female,group E,some high school,free/reduced,completed,100,100,97,297,99.0
+male,group C,associate's degree,standard,completed,81,67,61,209,69.67
+male,group D,high school,standard,none,72,71,72,215,71.67
+male,group B,associate's degree,standard,none,77,60,58,195,65.0
+female,group D,associate's degree,standard,completed,77,82,86,245,81.67
+female,group D,some high school,free/reduced,none,52,67,66,185,61.67
+female,group C,some high school,standard,completed,89,87,81,257,85.67
+female,group C,associate's degree,standard,completed,80,72,76,228,76.0
+female,group C,some college,standard,none,72,76,77,225,75.0
+female,group C,some high school,standard,completed,62,60,68,190,63.33
+female,group E,master's degree,standard,none,92,84,85,261,87.0
+male,group D,some high school,standard,none,82,79,75,236,78.67
+female,group E,associate's degree,free/reduced,none,56,70,65,191,63.67
+male,group B,master's degree,free/reduced,none,79,71,77,227,75.67
+female,group D,high school,standard,none,65,63,67,195,65.0
+female,group E,some high school,free/reduced,none,52,67,74,193,64.33
+female,group B,some high school,free/reduced,completed,58,66,66,190,63.33
+male,group A,high school,free/reduced,completed,42,32,36,110,36.67
+male,group D,some high school,standard,none,79,76,65,220,73.33
+male,group C,associate's degree,standard,none,45,50,52,147,49.0
+male,group D,some high school,standard,completed,59,67,62,188,62.67
+female,group B,some college,standard,none,41,48,55,144,48.0
+male,group D,master's degree,standard,none,71,43,47,161,53.67
+female,group B,associate's degree,standard,none,70,75,72,217,72.33
+female,group B,associate's degree,standard,none,67,73,73,213,71.0
+male,group B,high school,free/reduced,none,48,40,43,131,43.67
+male,group D,associate's degree,standard,completed,59,52,62,173,57.67
+male,group D,some college,standard,none,79,90,83,252,84.0
+male,group C,some college,free/reduced,none,56,54,56,166,55.33
+male,group C,some high school,free/reduced,none,69,70,66,205,68.33
+male,group D,bachelor's degree,free/reduced,none,51,49,58,158,52.67
+male,group C,some college,free/reduced,completed,72,52,42,166,55.33
+male,group D,high school,standard,completed,97,80,75,252,84.0
+female,group C,high school,free/reduced,completed,78,76,70,224,74.67
+male,group C,some college,standard,none,66,60,45,171,57.0
+male,group C,bachelor's degree,standard,completed,81,71,69,221,73.67
+female,group C,associate's degree,standard,completed,73,77,80,230,76.67
+male,group D,associate's degree,standard,completed,77,68,63,208,69.33
+female,group C,some high school,standard,none,67,62,66,195,65.0
+female,group B,some college,standard,none,70,76,94,240,80.0
+male,group D,some college,free/reduced,none,67,50,48,165,55.0
+female,group C,some high school,standard,completed,62,54,62,178,59.33
+female,group C,high school,standard,none,57,70,70,197,65.67
+female,group E,associate's degree,free/reduced,none,43,60,66,169,56.33
+female,group C,some high school,standard,completed,53,62,66,181,60.33
+male,group B,some college,standard,completed,59,49,47,155,51.67
+female,group E,high school,free/reduced,completed,71,69,82,222,74.0
+male,group C,some high school,standard,none,59,57,61,177,59.0
+female,group C,high school,standard,completed,85,71,75,231,77.0
+female,group B,master's degree,free/reduced,none,65,65,58,188,62.67
+female,group D,associate's degree,standard,none,42,61,64,167,55.67
+female,group C,master's degree,standard,none,82,90,100,272,90.67
+male,group C,some college,free/reduced,none,76,66,62,204,68.0
+male,group D,some high school,free/reduced,none,49,58,62,169,56.33
+female,group D,some college,standard,completed,83,67,78,228,76.0
+female,group B,some college,standard,none,59,71,75,205,68.33
+male,group C,bachelor's degree,standard,completed,78,64,57,199,66.33
+female,group B,some high school,standard,none,53,65,57,175,58.33
+female,group D,some college,standard,none,45,56,65,166,55.33
+female,group A,some high school,standard,none,66,80,78,224,74.67
+male,group C,high school,free/reduced,none,62,54,54,170,56.67
+male,group D,associate's degree,standard,none,66,67,58,191,63.67
+male,group D,some college,standard,none,54,53,51,158,52.67
+female,group C,high school,standard,none,66,69,73,208,69.33
+female,group D,some college,free/reduced,none,68,71,76,215,71.67
+male,group B,some college,standard,none,71,60,52,183,61.0
+male,group D,associate's degree,standard,completed,80,71,73,224,74.67
+male,group B,bachelor's degree,free/reduced,none,54,55,51,160,53.33
+male,group C,master's degree,standard,completed,95,82,68,245,81.67
+female,group D,associate's degree,standard,completed,59,67,70,196,65.33
+male,group B,high school,standard,completed,84,79,74,237,79.0
+female,group B,associate's degree,standard,completed,95,94,95,284,94.67
+male,group D,some college,standard,none,79,63,67,209,69.67
+female,group D,high school,standard,completed,74,81,82,237,79.0
+male,group C,bachelor's degree,standard,completed,69,56,54,179,59.67
+male,group D,some high school,standard,none,88,80,69,237,79.0
+male,group C,bachelor's degree,free/reduced,none,43,53,56,152,50.67
+male,group B,some college,free/reduced,none,49,39,41,129,43.0
+female,group C,associate's degree,free/reduced,completed,63,69,71,203,67.67
+male,group B,associate's degree,free/reduced,completed,88,73,60,221,73.67
+female,group E,bachelor's degree,standard,none,78,72,82,232,77.33
+female,group C,associate's degree,free/reduced,none,49,70,67,186,62.0
+female,group C,associate's degree,standard,none,67,67,68,202,67.33
+female,group C,some high school,free/reduced,none,55,58,65,178,59.33
+male,group E,some college,free/reduced,completed,58,58,50,166,55.33
+female,group B,some high school,free/reduced,none,79,83,77,239,79.67
+female,group C,associate's degree,free/reduced,none,43,56,51,150,50.0
+female,group C,some college,standard,none,96,97,100,293,97.67
+male,group C,associate's degree,standard,completed,89,80,72,241,80.33
+male,group A,some high school,standard,none,88,61,73,222,74.0
+male,group D,some high school,standard,completed,70,61,54,185,61.67
+male,group E,associate's degree,standard,none,70,61,54,185,61.67
+female,group C,some high school,standard,none,51,65,66,182,60.67
+female,group D,some high school,free/reduced,none,56,46,54,156,52.0
+male,group E,some high school,standard,none,79,88,79,246,82.0
+female,group D,master's degree,free/reduced,none,83,85,89,257,85.67
+female,group B,associate's degree,free/reduced,completed,52,63,63,178,59.33
+female,group C,high school,free/reduced,completed,64,78,73,215,71.67
+male,group C,high school,free/reduced,completed,67,80,66,213,71.0
+male,group C,high school,standard,none,51,60,47,158,52.67
+female,group D,associate's degree,free/reduced,completed,78,84,83,245,81.67
+male,group E,associate's degree,free/reduced,none,53,56,53,162,54.0
+male,group E,high school,standard,none,69,63,57,189,63.0
+male,group C,some high school,standard,none,65,59,63,187,62.33
+male,group B,some high school,free/reduced,none,52,48,54,154,51.33
+male,group E,associate's degree,standard,completed,77,64,60,201,67.0
+female,group D,associate's degree,standard,none,69,63,59,191,63.67
+male,group B,high school,free/reduced,none,58,57,53,168,56.0
+female,group E,some high school,standard,none,61,56,59,176,58.67
+female,group D,some high school,standard,none,77,79,78,234,78.0
+male,group C,master's degree,free/reduced,none,89,76,68,233,77.67
+female,group C,high school,standard,none,74,76,75,225,75.0
+female,group C,associate's degree,standard,completed,92,83,83,258,86.0
+female,group A,associate's degree,standard,completed,56,86,84,226,75.33
+male,group C,some college,standard,none,74,77,73,224,74.67
+male,group D,high school,free/reduced,none,48,43,45,136,45.33
+female,group A,some high school,standard,none,50,63,63,176,58.67
+male,group C,associate's degree,standard,completed,66,58,63,187,62.33
+male,group C,associate's degree,standard,none,90,70,62,222,74.0
+male,group C,associate's degree,standard,none,86,65,54,205,68.33
+male,group E,some college,free/reduced,none,68,67,66,201,67.0
+female,group C,some high school,free/reduced,none,41,51,53,145,48.33
+female,group C,master's degree,standard,none,69,79,83,231,77.0
+male,group D,associate's degree,standard,completed,82,79,62,223,74.33
+male,group C,high school,standard,none,75,78,80,233,77.67
+female,group B,master's degree,standard,none,44,51,61,156,52.0
+female,group C,associate's degree,free/reduced,completed,56,68,64,188,62.67
+male,group B,some college,standard,completed,76,73,62,211,70.33
+female,group B,associate's degree,standard,none,80,76,87,243,81.0
+male,group C,associate's degree,standard,none,39,41,38,118,39.33
+male,group C,associate's degree,free/reduced,none,62,71,63,196,65.33
+female,group E,some high school,free/reduced,completed,71,75,66,212,70.67
+female,group C,high school,standard,none,85,86,85,256,85.33
+male,group C,bachelor's degree,free/reduced,completed,79,65,61,205,68.33
+male,group C,high school,standard,completed,86,66,67,219,73.0
+female,group A,high school,standard,none,60,63,61,184,61.33
+male,group D,some college,free/reduced,none,35,43,36,114,38.0
+female,group B,some college,free/reduced,none,58,58,66,182,60.67
+male,group E,associate's degree,free/reduced,none,79,70,72,221,73.67
+female,group B,master's degree,standard,none,93,75,70,238,79.33
+female,group C,high school,standard,completed,88,76,84,248,82.67
+female,group A,some high school,free/reduced,completed,75,81,83,239,79.67
+male,group E,high school,standard,none,78,74,75,227,75.67
+male,group C,bachelor's degree,standard,completed,69,62,59,190,63.33
+female,group C,associate's degree,standard,none,70,66,57,193,64.33
+male,group A,high school,free/reduced,none,89,69,65,223,74.33
+female,group D,associate's degree,standard,none,58,63,73,194,64.67
+female,group B,bachelor's degree,standard,none,96,93,89,278,92.67
+male,group D,bachelor's degree,free/reduced,completed,64,68,63,195,65.0
+male,group B,bachelor's degree,standard,completed,97,78,72,247,82.33
+female,group B,high school,standard,none,51,54,45,150,50.0
+male,group A,associate's degree,standard,none,81,73,77,231,77.0
+male,group C,some college,standard,none,61,54,48,163,54.33
+female,group C,bachelor's degree,standard,none,51,58,66,175,58.33
+female,group A,associate's degree,standard,completed,80,88,88,256,85.33
+male,group D,associate's degree,free/reduced,completed,84,79,80,243,81.0
+female,group C,associate's degree,standard,none,59,68,74,201,67.0
+female,group C,some high school,free/reduced,none,42,47,53,142,47.33
+male,group C,some college,standard,none,71,67,59,197,65.67
+female,group C,master's degree,standard,none,71,81,87,239,79.67
+female,group C,bachelor's degree,standard,none,80,76,69,225,75.0
+male,group B,some high school,standard,none,86,84,82,252,84.0
+male,group B,some high school,free/reduced,completed,68,73,64,205,68.33
+female,group D,some high school,standard,completed,100,100,100,300,100.0
+female,group E,associate's degree,standard,none,75,78,81,234,78.0
+male,group C,associate's degree,free/reduced,none,59,63,64,186,62.0
+male,group B,high school,free/reduced,none,40,57,56,153,51.0
+male,group C,some college,free/reduced,none,60,62,51,173,57.67
+male,group C,bachelor's degree,standard,completed,72,63,56,191,63.67
+female,group A,associate's degree,free/reduced,none,78,75,81,234,78.0
+male,group B,some college,standard,none,79,72,69,220,73.33
+male,group D,some college,standard,none,54,46,52,152,50.67
+female,group D,some college,standard,completed,80,78,82,240,80.0
+male,group A,high school,standard,none,82,80,70,232,77.33
+female,group B,some college,standard,none,95,73,72,240,80.0
+male,group B,associate's degree,standard,none,85,85,80,250,83.33
+male,group D,bachelor's degree,free/reduced,completed,80,79,63,222,74.0
+male,group A,associate's degree,standard,completed,78,67,72,217,72.33
+female,group B,associate's degree,standard,none,78,82,86,246,82.0
+female,group D,some high school,standard,completed,96,89,96,281,93.67
+male,group B,some college,free/reduced,completed,49,61,51,161,53.67
+female,group D,some high school,standard,completed,72,81,89,242,80.67
+female,group B,high school,standard,none,60,57,74,191,63.67
+female,group A,associate's degree,free/reduced,none,70,77,73,220,73.33
+female,group B,master's degree,free/reduced,none,82,79,85,246,82.0
+female,group D,some high school,standard,completed,68,72,75,215,71.67
+female,group D,some college,free/reduced,none,28,43,43,114,38.0
+male,group D,associate's degree,free/reduced,completed,63,73,72,208,69.33
+male,group C,high school,free/reduced,none,78,77,77,232,77.33
+female,group D,some college,standard,completed,85,77,76,238,79.33
+male,group B,associate's degree,free/reduced,completed,75,59,63,197,65.67
+male,group B,associate's degree,standard,none,68,61,51,180,60.0
+male,group D,high school,standard,completed,58,61,51,170,56.67
+male,group A,high school,standard,none,80,73,70,223,74.33
+female,group A,associate's degree,standard,completed,64,78,80,222,74.0
+male,group B,some college,standard,none,100,89,79,268,89.33
+male,group A,some high school,free/reduced,none,73,74,74,221,73.67
+female,group B,associate's degree,standard,completed,68,74,80,222,74.0
+female,group C,some high school,standard,none,63,59,68,190,63.33
+male,group C,associate's degree,standard,completed,76,67,63,206,68.67
+male,group D,high school,standard,none,68,71,70,209,69.67
+male,group D,master's degree,free/reduced,none,81,71,65,217,72.33
+male,group C,high school,standard,none,75,72,78,225,75.0
+male,group B,high school,standard,none,61,57,51,169,56.33
+male,group C,some high school,standard,none,100,76,82,258,86.0
+female,group C,high school,standard,none,73,74,77,224,74.67
+male,group B,bachelor's degree,standard,none,84,76,65,225,75.0
+male,group C,master's degree,free/reduced,none,55,51,57,163,54.33
+female,group C,high school,free/reduced,completed,74,74,78,226,75.33
+female,group C,some college,standard,completed,82,74,81,237,79.0
+female,group C,associate's degree,free/reduced,none,36,60,71,167,55.67
+female,group B,bachelor's degree,free/reduced,completed,99,88,90,277,92.33
+male,group E,some college,free/reduced,none,83,83,75,241,80.33
+male,group D,some college,standard,completed,71,76,76,223,74.33
+male,group B,some college,standard,completed,60,58,56,174,58.0
+male,group D,associate's degree,standard,completed,82,65,66,213,71.0
+male,group C,some high school,free/reduced,none,65,47,36,148,49.33
+male,group D,associate's degree,free/reduced,completed,74,57,58,189,63.0
+female,group D,high school,standard,none,75,66,67,208,69.33
+male,group C,associate's degree,standard,completed,85,84,87,256,85.33
+female,group A,some high school,free/reduced,none,86,83,88,257,85.67
+female,group B,some college,free/reduced,none,73,78,81,232,77.33
+male,group C,some college,free/reduced,completed,53,39,43,135,45.0
+female,group C,associate's degree,free/reduced,completed,89,76,74,239,79.67
+male,group B,some high school,standard,none,97,87,89,273,91.0
+female,group B,some college,standard,completed,100,93,100,293,97.67
+male,group D,some college,free/reduced,none,47,50,51,148,49.33
+female,group E,some college,standard,none,76,81,91,248,82.67
+male,group C,associate's degree,standard,none,41,59,54,154,51.33
+male,group B,associate's degree,free/reduced,none,72,65,58,195,65.0
+male,group B,associate's degree,standard,none,64,62,60,186,62.0
+male,group A,high school,free/reduced,none,93,80,77,250,83.33
+male,group E,bachelor's degree,standard,none,60,76,70,206,68.67
+female,group B,some college,free/reduced,none,39,40,51,130,43.33
+female,group C,some high school,standard,none,65,75,79,219,73.0
+female,group B,some high school,standard,completed,47,58,58,163,54.33
+male,group C,high school,standard,completed,88,80,78,246,82.0
+female,group D,associate's degree,standard,none,41,51,62,154,51.33
+male,group D,associate's degree,free/reduced,none,64,61,60,185,61.67
+male,group B,associate's degree,free/reduced,none,33,48,54,135,45.0
+female,group A,some college,standard,none,67,93,87,247,82.33
+female,group B,some college,standard,completed,100,97,99,296,98.67
+male,group E,some high school,standard,none,77,63,55,195,65.0
+female,group D,high school,standard,none,59,63,62,184,61.33
+male,group C,some college,free/reduced,none,64,58,53,175,58.33
+male,group C,some high school,free/reduced,none,64,49,44,157,52.33
+male,group D,high school,free/reduced,completed,76,66,60,202,67.33
+male,group B,some college,free/reduced,completed,48,57,54,159,53.0
+male,group E,associate's degree,standard,none,81,63,65,209,69.67
+female,group C,master's degree,free/reduced,none,23,52,57,132,44.0
+female,group C,bachelor's degree,free/reduced,completed,60,70,66,196,65.33
+male,group C,associate's degree,free/reduced,completed,62,55,59,176,58.67
+male,group A,some college,free/reduced,none,73,66,59,198,66.0
+female,group B,associate's degree,standard,none,72,85,86,243,81.0
+female,group D,associate's degree,free/reduced,none,43,62,69,174,58.0
+male,group A,some high school,standard,none,57,57,56,170,56.67
+female,group C,some college,standard,none,75,74,82,231,77.0
+male,group B,bachelor's degree,standard,none,71,66,65,202,67.33
+female,group C,some college,free/reduced,none,55,60,61,176,58.67
+male,group B,some college,free/reduced,none,57,42,54,153,51.0
+female,group C,some college,free/reduced,completed,79,93,94,266,88.67
+male,group D,high school,free/reduced,none,56,58,56,170,56.67
+female,group B,high school,standard,none,71,76,83,230,76.67
+female,group C,high school,free/reduced,none,97,89,91,277,92.33
+male,group C,some high school,standard,none,51,48,50,149,49.67
+female,group D,some high school,standard,completed,49,59,77,185,61.67
+male,group E,bachelor's degree,standard,none,84,62,58,204,68.0
+female,group D,high school,free/reduced,none,54,79,80,213,71.0
+male,group B,some college,free/reduced,completed,64,53,53,170,56.67
+female,group A,high school,standard,none,60,60,70,190,63.33
+male,group B,master's degree,standard,completed,73,64,54,191,63.67
+female,group C,high school,free/reduced,none,88,93,83,264,88.0
+male,group A,some college,standard,none,84,74,67,225,75.0
+female,group C,bachelor's degree,free/reduced,none,77,69,64,210,70.0
+male,group C,bachelor's degree,free/reduced,none,43,58,54,155,51.67
+male,group C,high school,standard,completed,60,64,64,188,62.67
+male,group D,associate's degree,standard,completed,34,47,42,123,41.0
+female,group B,some college,free/reduced,none,52,67,64,183,61.0
+male,group A,some college,free/reduced,none,78,87,81,246,82.0
+female,group D,some high school,standard,completed,85,97,100,282,94.0
+male,group C,some high school,free/reduced,completed,66,58,48,172,57.33
+female,group D,associate's degree,standard,none,72,86,91,249,83.0
+male,group C,some college,standard,none,62,63,65,190,63.33
+female,group B,some college,free/reduced,none,67,75,83,225,75.0
+female,group D,associate's degree,free/reduced,completed,80,67,77,224,74.67
+male,group D,associate's degree,standard,none,48,51,61,160,53.33
+female,group D,some high school,free/reduced,none,68,66,68,202,67.33
+female,group B,associate's degree,standard,completed,91,91,92,274,91.33
+male,group C,some high school,standard,none,66,70,64,200,66.67
+female,group C,associate's degree,standard,none,83,66,70,219,73.0
+female,group A,associate's degree,free/reduced,none,100,91,99,290,96.67
+female,group E,master's degree,standard,none,70,81,76,227,75.67
+male,group B,some high school,standard,none,78,68,60,206,68.67
+female,group E,some high school,standard,none,61,73,83,217,72.33
+male,group C,high school,free/reduced,none,67,66,68,201,67.0
+female,group B,high school,free/reduced,none,71,76,77,224,74.67
+female,group C,high school,free/reduced,completed,72,72,79,223,74.33
+female,group D,bachelor's degree,standard,completed,62,60,67,189,63.0
+male,group D,high school,standard,none,75,60,66,201,67.0
+female,group D,high school,standard,none,94,92,93,279,93.0
+female,group D,associate's degree,free/reduced,none,71,74,82,227,75.67
+male,group D,some college,free/reduced,none,78,69,79,226,75.33
+female,group D,associate's degree,standard,none,68,69,76,213,71.0
+male,group B,some high school,free/reduced,completed,80,69,66,215,71.67
+male,group C,some college,standard,none,76,76,75,227,75.67
+female,group B,some high school,standard,none,58,63,66,187,62.33
+male,group E,some high school,standard,none,77,60,70,207,69.0
+female,group E,bachelor's degree,standard,completed,62,73,77,212,70.67
+male,group A,some high school,standard,none,63,59,56,178,59.33
+male,group D,some college,standard,completed,80,71,63,214,71.33
+female,group E,some college,standard,none,76,88,94,258,86.0
+male,group B,high school,free/reduced,completed,51,53,56,160,53.33
+male,group C,bachelor's degree,standard,completed,93,81,73,247,82.33
+male,group E,some high school,standard,none,81,63,63,207,69.0
+male,group A,associate's degree,free/reduced,none,53,53,45,151,50.33
+male,group D,master's degree,standard,none,49,57,56,162,54.0
+female,group B,some college,standard,none,70,62,69,201,67.0
+male,group E,bachelor's degree,free/reduced,completed,62,62,68,192,64.0
+female,group E,some high school,standard,completed,79,79,77,235,78.33
+male,group E,some college,standard,completed,72,66,57,195,65.0
+female,group C,high school,standard,completed,47,66,66,179,59.67
+female,group D,associate's degree,free/reduced,none,58,68,65,191,63.67
+male,group D,master's degree,standard,none,67,74,77,218,72.67
+male,group C,high school,free/reduced,completed,79,63,68,210,70.0
+male,group D,associate's degree,standard,none,62,61,60,183,61.0
+female,group A,high school,standard,completed,100,92,98,290,96.67
+male,group C,some college,standard,none,43,41,43,127,42.33
+female,group B,some college,free/reduced,none,84,88,88,260,86.67
+female,group B,master's degree,standard,completed,74,92,91,257,85.67
+female,group A,associate's degree,standard,none,85,82,82,249,83.0
+male,group D,high school,standard,completed,78,73,61,212,70.67
+male,group C,some high school,standard,completed,94,80,76,250,83.33
+female,group D,some high school,free/reduced,completed,63,64,68,195,65.0
+female,group A,high school,standard,completed,61,55,64,180,60.0
+male,group C,high school,standard,none,93,74,70,237,79.0
+female,group C,bachelor's degree,standard,completed,75,66,69,210,70.0
+male,group D,some college,free/reduced,none,67,75,66,208,69.33
+female,group C,some college,standard,none,91,85,87,263,87.67
+male,group C,some high school,standard,none,57,55,57,169,56.33
+female,group D,bachelor's degree,free/reduced,none,73,81,77,231,77.0
+male,group C,associate's degree,free/reduced,none,55,48,48,151,50.33
+female,group B,some high school,standard,none,70,68,73,211,70.33
+male,group A,associate's degree,standard,none,73,67,60,200,66.67
+male,group D,some college,standard,completed,54,63,58,175,58.33
+female,group A,some high school,standard,none,60,71,76,207,69.0
+female,group D,some college,standard,completed,97,91,86,274,91.33
+male,group C,some college,standard,completed,90,78,75,243,81.0
+female,group E,some high school,standard,completed,76,79,77,232,77.33
+male,group D,master's degree,standard,none,76,70,72,218,72.67
+female,group E,bachelor's degree,free/reduced,completed,65,63,79,207,69.0
+male,group C,associate's degree,free/reduced,none,84,74,66,224,74.67
+male,group D,some college,standard,completed,74,60,61,195,65.0
+male,group C,some college,standard,none,75,69,62,206,68.67
+male,group C,associate's degree,standard,completed,94,76,77,247,82.33
+male,group C,some college,free/reduced,completed,57,75,64,196,65.33
+male,group D,some high school,standard,none,95,80,77,252,84.0
+female,group E,some college,standard,none,49,51,53,153,51.0
+female,group D,associate's degree,standard,completed,100,90,89,279,93.0
+female,group C,some college,standard,none,66,74,72,212,70.67
+male,group C,some high school,standard,completed,73,79,78,230,76.67
+male,group D,associate's degree,standard,none,44,45,41,130,43.33
+male,group B,high school,standard,none,65,51,53,169,56.33
+male,group B,high school,free/reduced,completed,53,61,57,171,57.0
+female,group C,some high school,standard,completed,68,62,66,196,65.33
+female,group B,high school,free/reduced,completed,67,68,73,208,69.33
+male,group B,associate's degree,free/reduced,none,78,68,61,207,69.0
+female,group B,some college,standard,completed,80,79,82,241,80.33
+female,group A,high school,standard,none,77,82,91,250,83.33
+male,group A,bachelor's degree,standard,none,56,52,47,155,51.67
+female,group E,bachelor's degree,standard,completed,64,67,77,208,69.33
+male,group C,bachelor's degree,free/reduced,none,91,78,81,250,83.33
+female,group C,high school,free/reduced,none,53,64,64,181,60.33
+male,group D,some college,standard,none,97,82,69,248,82.67
+male,group B,master's degree,standard,completed,73,70,68,211,70.33
+male,group E,associate's degree,free/reduced,none,64,67,61,192,64.0
+male,group D,some high school,free/reduced,completed,85,77,82,244,81.33
+female,group A,some high school,free/reduced,none,83,84,86,253,84.33
+male,group C,some college,standard,none,70,54,49,173,57.67
+male,group D,bachelor's degree,standard,completed,71,66,57,194,64.67
+male,group E,some college,free/reduced,none,63,64,67,194,64.67
+female,group C,some college,free/reduced,none,69,78,77,224,74.67
+male,group C,some high school,standard,none,85,69,66,220,73.33
+female,group B,associate's degree,standard,none,72,70,78,220,73.33
+male,group E,bachelor's degree,standard,completed,86,71,65,222,74.0
+female,group B,some college,standard,none,97,93,93,283,94.33
+female,group E,associate's degree,standard,completed,83,88,89,260,86.67
+male,group C,master's degree,free/reduced,none,69,62,63,194,64.67
+female,group C,high school,standard,none,49,67,74,190,63.33
+male,group C,some college,free/reduced,completed,30,42,42,114,38.0
+male,group B,high school,standard,none,78,69,66,213,71.0
+male,group B,associate's degree,free/reduced,none,63,59,55,177,59.0
+female,group B,some college,free/reduced,none,56,70,66,192,64.0
+female,group B,associate's degree,standard,none,76,79,82,237,79.0
+male,group D,associate's degree,standard,none,71,82,86,239,79.67
+male,group C,some college,standard,none,89,70,62,221,73.67
+female,group A,bachelor's degree,standard,none,73,78,76,227,75.67
+male,group E,some college,free/reduced,none,53,51,46,150,50.0
+male,group D,some high school,free/reduced,none,79,64,65,208,69.33
+male,group E,associate's degree,standard,none,69,64,64,197,65.67
+female,group E,associate's degree,standard,none,80,80,81,241,80.33
+female,group B,high school,standard,completed,70,93,88,251,83.67
+female,group C,bachelor's degree,free/reduced,completed,59,65,70,194,64.67
+male,group D,bachelor's degree,standard,none,73,59,49,181,60.33
+male,group D,high school,standard,completed,77,71,68,216,72.0
+male,group B,master's degree,standard,none,79,56,59,194,64.67
+female,group D,some high school,standard,none,68,71,68,207,69.0
+male,group B,high school,standard,none,44,50,42,136,45.33
+male,group B,high school,free/reduced,none,58,63,68,189,63.0
+male,group C,bachelor's degree,standard,none,84,80,72,236,78.67
+male,group C,associate's degree,standard,none,68,60,64,192,64.0
+female,group C,some high school,free/reduced,none,60,66,69,195,65.0
+female,group A,some college,free/reduced,completed,84,76,78,238,79.33
+male,group D,associate's degree,standard,none,61,52,53,166,55.33
+female,group B,some high school,standard,none,49,63,63,175,58.33
+female,group B,bachelor's degree,standard,completed,75,67,72,214,71.33
+male,group D,associate's degree,standard,none,65,59,55,179,59.67
+male,group E,some college,standard,none,58,51,44,153,51.0
+female,group D,master's degree,standard,completed,74,79,83,236,78.67
+male,group D,some college,standard,completed,84,86,79,249,83.0
+female,group D,master's degree,free/reduced,completed,69,63,67,199,66.33
+male,group C,associate's degree,standard,completed,82,59,51,192,64.0
+female,group A,associate's degree,free/reduced,completed,96,88,97,281,93.67
+male,group C,some high school,standard,completed,72,66,67,205,68.33
+female,group C,bachelor's degree,free/reduced,none,68,73,81,222,74.0
+female,group B,some college,free/reduced,none,56,61,64,181,60.33
+female,group D,some high school,free/reduced,none,51,60,56,167,55.67
+male,group C,some high school,free/reduced,none,55,59,67,181,60.33
+female,group A,some college,free/reduced,completed,62,75,77,214,71.33
+female,group B,some college,standard,none,77,64,65,206,68.67
+male,group D,associate's degree,standard,none,100,80,77,257,85.67
+male,group A,bachelor's degree,standard,none,61,61,65,187,62.33
+female,group D,some high school,free/reduced,completed,63,62,67,192,64.0
+female,group C,associate's degree,free/reduced,none,63,81,89,233,77.67
+male,group C,high school,standard,completed,83,68,70,221,73.67
+male,group C,bachelor's degree,standard,none,76,68,59,203,67.67
+male,group D,associate's degree,standard,none,91,81,72,244,81.33
+male,group C,some college,free/reduced,none,28,36,42,106,35.33
+male,group D,associate's degree,standard,none,36,32,21,89,29.67
+female,group C,high school,standard,completed,70,70,73,213,71.0
+male,group B,some college,standard,completed,93,86,73,252,84.0
+female,group D,bachelor's degree,standard,completed,54,61,63,178,59.33
+female,group D,some college,free/reduced,none,19,36,43,98,32.67
+female,group D,high school,free/reduced,none,73,81,81,235,78.33
+male,group D,some college,free/reduced,completed,73,64,59,196,65.33
+female,group D,bachelor's degree,standard,completed,61,64,63,188,62.67
+female,group D,high school,standard,none,57,66,82,205,68.33
+male,group D,some high school,standard,none,57,63,70,190,63.33
+female,group D,associate's degree,free/reduced,completed,71,90,85,246,82.0
+female,group D,bachelor's degree,standard,none,63,75,86,224,74.67
+male,group C,some high school,standard,none,79,79,72,230,76.67
+female,group D,high school,standard,none,29,45,53,127,42.33
+female,group B,some high school,free/reduced,none,51,54,60,165,55.0
+female,group D,high school,standard,completed,60,67,68,195,65.0
+male,group D,some college,free/reduced,completed,65,63,65,193,64.33
+male,group A,associate's degree,standard,none,64,54,54,172,57.33
+male,group D,associate's degree,standard,none,84,72,66,222,74.0
+female,group B,associate's degree,standard,none,44,60,58,162,54.0
+female,group C,high school,standard,none,73,77,75,225,75.0
+male,group D,bachelor's degree,standard,none,80,75,63,218,72.67
+female,group B,some college,standard,none,100,93,93,286,95.33
+female,group D,master's degree,standard,none,65,66,64,195,65.0
+male,group D,associate's degree,free/reduced,none,69,61,58,188,62.67
+male,group C,some high school,standard,none,45,42,50,137,45.67
+female,group A,associate's degree,free/reduced,none,28,60,71,159,53.0
+female,group B,high school,standard,none,85,82,84,251,83.67
+female,group C,associate's degree,free/reduced,none,64,68,71,203,67.67
+male,group E,some high school,standard,completed,95,73,78,246,82.0
+male,group C,some high school,standard,none,51,74,73,198,66.0
+male,group B,bachelor's degree,standard,none,80,63,59,202,67.33
+male,group C,high school,standard,completed,100,80,68,248,82.67
+female,group C,bachelor's degree,standard,completed,83,84,87,254,84.67
+male,group D,high school,free/reduced,none,68,68,69,205,68.33
+male,group B,associate's degree,free/reduced,completed,69,71,64,204,68.0
+male,group D,associate's degree,free/reduced,none,40,60,59,159,53.0
+male,group C,some college,free/reduced,none,84,77,71,232,77.33
+male,group E,high school,standard,none,63,53,51,167,55.67
+female,group C,high school,standard,completed,85,80,70,235,78.33
+female,group C,some high school,standard,completed,54,66,69,189,63.0
+male,group E,high school,standard,none,54,70,71,195,65.0
+female,group B,associate's degree,standard,none,94,78,77,249,83.0
+male,group E,bachelor's degree,standard,none,67,72,68,207,69.0
+male,group D,bachelor's degree,standard,none,94,81,72,247,82.33
+female,group A,associate's degree,standard,none,71,79,83,233,77.67
+female,group C,associate's degree,free/reduced,completed,41,55,60,156,52.0
+male,group D,associate's degree,free/reduced,completed,82,66,58,206,68.67
+male,group A,high school,standard,completed,68,69,72,209,69.67
+male,group C,bachelor's degree,free/reduced,completed,79,75,75,229,76.33
+female,group C,associate's degree,free/reduced,none,64,76,76,216,72.0
+male,group C,some college,standard,completed,54,55,56,165,55.0
+male,group A,some high school,standard,none,74,63,63,200,66.67
+male,group D,some college,standard,none,100,72,71,243,81.0
+female,group E,some college,free/reduced,none,71,79,73,223,74.33
+male,group E,bachelor's degree,free/reduced,none,63,64,66,193,64.33
+male,group D,some college,standard,none,88,69,63,220,73.33
+female,group B,some college,standard,none,75,72,73,220,73.33
+male,group D,master's degree,standard,completed,80,68,78,226,75.33
+male,group A,some high school,standard,none,56,46,48,150,50.0
+female,group A,some college,standard,none,76,71,72,219,73.0
+male,group C,some high school,free/reduced,completed,85,66,52,203,67.67
+female,group C,associate's degree,free/reduced,none,51,59,71,181,60.33
+female,group D,bachelor's degree,free/reduced,none,85,77,73,235,78.33
+male,group D,high school,free/reduced,none,63,49,44,156,52.0
+male,group C,bachelor's degree,free/reduced,none,51,68,63,182,60.67
+male,group B,high school,standard,none,87,84,85,256,85.33
+male,group E,bachelor's degree,standard,none,68,58,60,186,62.0
+female,group C,associate's degree,standard,none,83,83,84,250,83.33
+male,group C,associate's degree,free/reduced,none,60,62,61,183,61.0
+female,group B,some high school,standard,none,71,82,81,234,78.0
+male,group D,master's degree,free/reduced,none,71,60,59,190,63.33
+male,group D,associate's degree,standard,none,76,76,72,224,74.67
+male,group B,high school,standard,completed,47,47,52,146,48.67
+female,group A,bachelor's degree,standard,none,55,55,66,176,58.67
+male,group D,high school,standard,none,86,80,77,243,81.0
+male,group D,bachelor's degree,free/reduced,completed,67,72,66,205,68.33
+male,group B,some high school,free/reduced,none,56,75,74,205,68.33
+male,group E,associate's degree,standard,none,52,46,46,144,48.0
+female,group B,some college,standard,none,56,69,67,192,64.0
+male,group C,some high school,standard,completed,47,48,46,141,47.0
+female,group E,high school,standard,completed,75,81,83,239,79.67
+female,group C,some high school,standard,none,63,59,69,191,63.67
+female,group C,some college,free/reduced,completed,55,55,60,170,56.67
+female,group C,high school,standard,none,71,68,66,205,68.33
+female,group B,some college,standard,completed,82,81,83,246,82.0
+female,group E,high school,standard,none,100,87,89,276,92.0
+male,group C,high school,standard,none,49,57,56,162,54.0
+female,group D,associate's degree,standard,completed,94,95,99,288,96.0
+female,group B,some high school,standard,none,87,87,93,267,89.0
+female,group B,bachelor's degree,standard,none,60,78,77,215,71.67
+male,group A,bachelor's degree,standard,completed,80,74,67,221,73.67
+male,group D,associate's degree,standard,none,65,53,47,165,55.0
+female,group C,some college,standard,none,75,86,91,252,84.0
+male,group D,bachelor's degree,standard,none,95,76,79,250,83.33
+female,group C,high school,free/reduced,completed,78,84,84,246,82.0
+female,group E,some high school,standard,completed,85,93,92,270,90.0
+male,group B,high school,standard,none,66,66,70,202,67.33
+female,group D,associate's degree,standard,completed,55,54,62,171,57.0
+male,group D,some high school,standard,none,69,58,58,185,61.67
+male,group D,some college,standard,completed,95,89,77,261,87.0
+female,group D,master's degree,free/reduced,none,41,54,63,158,52.67
+female,group D,bachelor's degree,free/reduced,none,48,60,60,168,56.0
+male,group C,some college,standard,completed,79,76,66,221,73.67
+female,group B,some high school,standard,none,57,70,72,199,66.33
+female,group A,bachelor's degree,standard,none,60,69,70,199,66.33
+female,group E,some college,free/reduced,none,58,64,67,189,63.0
+male,group C,some high school,standard,completed,57,55,47,159,53.0
+male,group D,some high school,standard,none,57,63,65,185,61.67
+female,group C,bachelor's degree,standard,none,83,85,92,260,86.67
+male,group B,associate's degree,standard,none,52,52,41,145,48.33
+male,group B,bachelor's degree,standard,none,48,59,62,169,56.33
+male,group D,bachelor's degree,standard,none,63,60,54,177,59.0
+male,group C,some college,standard,completed,88,70,71,229,76.33
+male,group B,some college,free/reduced,completed,66,57,55,178,59.33
+female,group C,some college,standard,none,65,63,68,196,65.33
+female,group A,high school,standard,none,73,73,75,221,73.67
+female,group C,some college,free/reduced,none,38,62,73,173,57.67
+male,group B,associate's degree,standard,none,79,65,56,200,66.67
+male,group D,associate's degree,standard,completed,83,74,73,230,76.67
+female,group C,bachelor's degree,standard,none,66,66,76,208,69.33
+male,group C,some college,standard,none,87,73,73,233,77.67
+female,group A,associate's degree,free/reduced,completed,52,52,70,174,58.0
+female,group A,associate's degree,standard,none,89,83,82,254,84.67
+female,group C,some college,standard,completed,79,77,84,240,80.0
+male,group C,associate's degree,standard,none,67,67,63,197,65.67
+male,group C,high school,standard,completed,77,71,74,222,74.0
+female,group B,some college,free/reduced,completed,67,63,68,198,66.0
+female,group D,some high school,standard,completed,95,96,94,285,95.0
+female,group D,some college,standard,completed,61,69,79,209,69.67
+female,group D,some college,free/reduced,none,53,64,66,183,61.0
+male,group A,associate's degree,standard,none,88,76,65,229,76.33
+male,group C,master's degree,free/reduced,none,55,52,49,156,52.0
+female,group B,associate's degree,free/reduced,none,78,79,84,241,80.33
+female,group B,associate's degree,free/reduced,none,89,88,96,273,91.0
+male,group E,some college,standard,none,66,50,50,166,55.33
+male,group B,associate's degree,standard,none,82,68,71,221,73.67
+female,group C,some high school,free/reduced,none,47,57,56,160,53.33
+female,group C,high school,standard,none,83,83,82,248,82.67
+female,group D,high school,standard,completed,80,87,87,254,84.67
+male,group C,some college,free/reduced,none,71,60,57,188,62.67
+male,group A,some high school,free/reduced,none,54,52,52,158,52.67
+male,group C,some high school,standard,none,47,48,51,146,48.67
+female,group C,high school,standard,none,80,73,74,227,75.67
+female,group A,master's degree,standard,completed,46,56,62,164,54.67
+male,group C,high school,free/reduced,none,59,64,61,184,61.33
+male,group A,some college,free/reduced,none,78,62,55,195,65.0
+female,group A,high school,standard,completed,80,82,83,245,81.67
+male,group C,associate's degree,standard,none,100,71,67,238,79.33
+male,group B,high school,free/reduced,none,79,66,62,207,69.0
+female,group C,high school,standard,none,62,66,70,198,66.0
+male,group D,some college,standard,completed,77,81,76,234,78.0
+female,group D,some high school,free/reduced,none,63,67,69,199,66.33
+female,group B,some high school,standard,none,48,44,58,150,50.0
+female,group B,high school,standard,none,58,52,52,162,54.0
+female,group B,some high school,standard,none,64,70,70,204,68.0
+female,group C,some high school,standard,none,41,60,79,180,60.0
+female,group D,high school,free/reduced,none,65,73,71,209,69.67
+female,group A,associate's degree,standard,none,68,73,69,210,70.0
+male,group E,some college,free/reduced,completed,44,58,60,162,54.0
+female,group A,some college,standard,completed,83,77,69,229,76.33
+female,group C,high school,standard,none,83,87,87,257,85.67
+male,group D,bachelor's degree,standard,completed,80,60,69,209,69.67
+male,group D,some college,standard,none,67,57,48,172,57.33
+male,group D,some high school,standard,none,81,59,47,187,62.33
+female,group D,associate's degree,standard,none,82,78,73,233,77.67
+male,group C,some high school,standard,completed,82,72,73,227,75.67
+female,group D,high school,standard,completed,65,71,80,216,72.0
+female,group A,some college,free/reduced,none,68,72,73,213,71.0
+female,group D,bachelor's degree,free/reduced,completed,87,77,83,247,82.33
+female,group C,some college,free/reduced,none,55,63,75,193,64.33
+male,group D,associate's degree,standard,completed,100,73,78,251,83.67
+male,group C,master's degree,standard,completed,69,74,69,212,70.67
+female,group C,some high school,free/reduced,none,64,67,59,190,63.33
+female,group C,high school,standard,completed,67,68,68,203,67.67
+female,group D,some college,standard,none,75,87,86,248,82.67
+male,group A,some college,free/reduced,none,38,37,37,112,37.33
+female,group A,some college,free/reduced,none,56,57,62,175,58.33
+female,group B,bachelor's degree,standard,none,56,57,68,181,60.33
+male,group B,associate's degree,standard,completed,79,70,73,222,74.0
+male,group D,associate's degree,free/reduced,completed,84,76,71,231,77.0
+female,group B,high school,standard,none,82,85,92,259,86.33
+male,group E,bachelor's degree,free/reduced,completed,33,61,61,155,51.67
+male,group C,master's degree,free/reduced,completed,100,67,64,231,77.0
+female,group B,bachelor's degree,free/reduced,none,68,76,83,227,75.67
+male,group D,some high school,standard,completed,65,58,57,180,60.0
+female,group D,associate's degree,standard,none,74,71,85,230,76.67
+male,group C,some high school,free/reduced,completed,72,62,53,187,62.33
+female,group C,high school,standard,none,62,62,64,188,62.67
+female,group D,some high school,free/reduced,none,67,83,84,234,78.0
+female,group B,associate's degree,standard,none,63,75,80,218,72.67
+male,group E,associate's degree,standard,completed,71,66,69,206,68.67
+female,group E,some high school,free/reduced,none,54,73,76,203,67.67
+male,group D,some college,free/reduced,none,43,38,32,113,37.67
+female,group B,some college,free/reduced,none,66,61,70,197,65.67
+female,group D,high school,free/reduced,completed,78,63,71,212,70.67
+male,group A,some high school,standard,none,80,66,53,199,66.33
+female,group A,some college,free/reduced,none,76,78,80,234,78.0
+female,group B,associate's degree,free/reduced,none,69,73,68,210,70.0
+male,group C,some high school,standard,none,64,62,56,182,60.67
+female,group D,some high school,standard,completed,90,75,73,238,79.33
+female,group D,high school,standard,completed,57,71,78,206,68.67
+female,group D,master's degree,standard,none,58,67,72,197,65.67
+female,group C,associate's degree,free/reduced,none,50,66,64,180,60.0
+male,group C,associate's degree,standard,completed,93,66,68,227,75.67
+male,group C,high school,standard,none,86,77,65,228,76.0
+female,group E,some college,standard,completed,84,73,78,235,78.33
+male,group A,some high school,standard,none,88,73,65,226,75.33
+female,group D,associate's degree,standard,completed,64,73,74,211,70.33
+male,group C,bachelor's degree,standard,none,77,70,69,216,72.0
+female,group C,associate's degree,free/reduced,none,62,62,69,193,64.33
+female,group D,bachelor's degree,standard,completed,90,85,93,268,89.33
+female,group C,associate's degree,standard,none,70,62,66,198,66.0
+female,group D,some high school,standard,none,66,79,83,228,76.0
+female,group E,bachelor's degree,free/reduced,none,72,73,74,219,73.0
+female,group C,some high school,standard,none,85,90,91,266,88.67
+male,group B,some college,free/reduced,none,54,52,53,159,53.0
+female,group C,some high school,free/reduced,none,63,65,69,197,65.67
+male,group E,some high school,free/reduced,none,48,46,37,131,43.67
+female,group B,some college,standard,none,35,58,65,158,52.67
+male,group C,high school,free/reduced,completed,72,61,61,194,64.67
+male,group C,some college,standard,none,81,76,68,225,75.0
+male,group D,some college,free/reduced,none,68,61,52,181,60.33
+female,group B,some high school,standard,completed,48,46,60,154,51.33
+female,group D,some high school,standard,none,67,67,73,207,69.0
+male,group E,some college,standard,none,39,38,38,115,38.33
+female,group B,high school,standard,none,93,87,82,262,87.33
+male,group B,associate's degree,free/reduced,none,48,43,39,130,43.33
+female,group E,associate's degree,standard,none,91,92,99,282,94.0
+male,group B,bachelor's degree,standard,none,86,74,71,231,77.0
+male,group D,associate's degree,standard,none,58,57,53,168,56.0
+female,group C,some college,free/reduced,none,47,64,71,182,60.67
+male,group B,associate's degree,free/reduced,none,69,71,63,203,67.67
+female,group D,high school,free/reduced,none,51,61,73,185,61.67
+male,group C,high school,free/reduced,none,66,57,62,185,61.67
+male,group C,associate's degree,standard,completed,70,53,50,173,57.67
+female,group C,some college,standard,none,45,53,56,154,51.33
+female,group C,associate's degree,free/reduced,none,31,45,39,115,38.33
+female,group B,bachelor's degree,standard,none,75,77,72,224,74.67
+male,group C,bachelor's degree,standard,none,64,59,50,173,57.67
+female,group E,bachelor's degree,standard,none,64,74,78,216,72.0
+male,group B,some college,standard,none,82,68,63,213,71.0
+male,group D,high school,standard,completed,95,80,68,243,81.0
+female,group C,some college,free/reduced,none,60,75,76,211,70.33
+female,group D,high school,standard,completed,72,77,82,231,77.0
+male,group B,associate's degree,standard,none,80,71,70,221,73.67
+male,group E,associate's degree,standard,none,52,50,40,142,47.33
+female,group C,associate's degree,free/reduced,none,67,67,70,204,68.0
+female,group B,high school,standard,none,80,73,69,222,74.0
+female,group A,some high school,free/reduced,none,74,72,80,226,75.33
+female,group B,some college,free/reduced,completed,40,60,69,169,56.33
+female,group C,some high school,standard,none,61,66,66,193,64.33
+male,group C,bachelor's degree,free/reduced,completed,56,47,43,146,48.67
+male,group D,high school,free/reduced,completed,70,77,70,217,72.33
+male,group C,some high school,free/reduced,none,71,68,54,193,64.33
+male,group B,some high school,free/reduced,none,86,65,64,215,71.67
+female,group C,associate's degree,standard,none,65,67,70,202,67.33
+female,group D,associate's degree,standard,none,65,71,79,215,71.67
+female,group B,high school,standard,none,89,96,90,275,91.67
+male,group B,some high school,standard,none,76,61,56,193,64.33
+male,group A,some college,free/reduced,none,83,80,67,230,76.67
+female,group D,high school,standard,none,76,86,82,244,81.33
+female,group D,associate's degree,free/reduced,completed,52,58,57,167,55.67
+male,group C,associate's degree,free/reduced,completed,49,50,54,153,51.0
+male,group D,high school,free/reduced,completed,46,43,40,129,43.0
+female,group D,high school,free/reduced,none,74,74,78,226,75.33
+female,group C,master's degree,standard,none,90,85,84,259,86.33
+male,group D,some college,standard,none,100,88,75,263,87.67
+female,group B,associate's degree,standard,none,85,90,90,265,88.33
+female,group B,some high school,standard,none,89,79,84,252,84.0
+female,group B,some college,standard,completed,68,58,57,183,61.0
+male,group A,some high school,standard,completed,60,59,61,180,60.0
+male,group C,some college,free/reduced,none,77,71,63,211,70.33
+male,group E,master's degree,standard,none,78,72,66,216,72.0
+male,group A,some college,standard,none,74,65,65,204,68.0
+male,group B,some high school,free/reduced,none,70,66,60,196,65.33
+male,group C,some high school,standard,none,77,80,75,232,77.33
+male,group E,some college,standard,none,91,80,73,244,81.33
+female,group C,some high school,free/reduced,none,83,78,81,242,80.67
+female,group C,some high school,standard,completed,85,78,68,231,77.0
+female,group A,associate's degree,free/reduced,none,77,76,69,222,74.0
+female,group B,some college,standard,completed,85,93,96,274,91.33
+female,group E,high school,free/reduced,none,57,64,74,195,65.0
+female,group E,bachelor's degree,standard,none,83,81,78,242,80.67
+female,group A,some high school,standard,none,51,58,62,171,57.0
+male,group E,master's degree,standard,none,88,83,79,250,83.33
+male,group C,high school,free/reduced,none,46,64,65,175,58.33
+female,group D,bachelor's degree,standard,completed,81,83,74,238,79.33
+female,group C,associate's degree,standard,completed,64,70,69,203,67.67
+male,group C,bachelor's degree,free/reduced,none,72,66,61,199,66.33
+female,group C,master's degree,free/reduced,none,63,52,62,177,59.0
+female,group D,high school,standard,completed,53,68,84,205,68.33
+male,group B,master's degree,free/reduced,none,70,66,62,198,66.0
+female,group A,some college,standard,none,63,72,68,203,67.67
+male,group C,some college,standard,none,85,69,68,222,74.0
+female,group D,high school,standard,completed,77,75,84,236,78.67
+male,group B,some college,free/reduced,completed,75,65,63,203,67.67
+male,group D,some high school,free/reduced,none,50,60,53,163,54.33
+male,group E,some college,standard,completed,68,61,64,193,64.33
+female,group A,some college,standard,completed,70,88,92,250,83.33
+male,group D,associate's degree,standard,none,85,77,67,229,76.33
+female,group C,bachelor's degree,free/reduced,none,89,75,80,244,81.33
+female,group D,some college,free/reduced,none,52,61,71,184,61.33
+female,group B,high school,standard,completed,93,82,90,265,88.33
+female,group D,high school,free/reduced,none,31,34,43,108,36.0
+male,group D,high school,free/reduced,completed,51,65,60,176,58.67
+male,group E,some high school,standard,none,58,63,67,188,62.67
+female,group D,high school,standard,completed,57,69,67,193,64.33
+female,group C,high school,standard,none,48,61,68,177,59.0
+male,group C,master's degree,free/reduced,none,70,55,47,172,57.33
+female,group D,some college,free/reduced,completed,66,67,76,209,69.67
+male,group C,high school,standard,completed,83,79,73,235,78.33
+female,group A,some college,free/reduced,completed,79,71,81,231,77.0
+female,group E,some high school,standard,none,76,59,67,202,67.33
+male,group D,some college,standard,completed,87,74,64,225,75.0
+female,group D,associate's degree,free/reduced,none,63,68,79,210,70.0
+male,group B,some college,free/reduced,none,46,52,59,157,52.33
+female,group D,some college,standard,none,88,89,94,271,90.33
+female,group C,master's degree,standard,none,63,73,72,208,69.33
+female,group D,bachelor's degree,standard,none,58,68,70,196,65.33
+male,group B,associate's degree,standard,completed,74,76,72,222,74.0
+female,group D,some college,standard,none,58,55,57,170,56.67
+female,group E,associate's degree,standard,completed,71,77,88,236,78.67
+female,group A,high school,free/reduced,none,69,77,80,226,75.33
+female,group E,some college,standard,none,77,69,59,205,68.33
+male,group C,some high school,free/reduced,none,51,43,45,139,46.33
+male,group D,some college,free/reduced,completed,62,55,52,169,56.33
+female,group D,some college,standard,completed,93,82,83,258,86.0
+male,group C,high school,standard,completed,84,79,72,235,78.33
+female,group D,master's degree,free/reduced,completed,100,87,92,279,93.0
+female,group D,bachelor's degree,standard,none,90,79,87,256,85.33
+female,group C,associate's degree,free/reduced,none,81,75,79,235,78.33
+male,group C,some college,free/reduced,completed,48,60,56,164,54.67
+male,group D,bachelor's degree,free/reduced,none,75,68,65,208,69.33
+male,group D,some high school,free/reduced,none,63,60,58,181,60.33
+male,group D,associate's degree,standard,none,64,61,55,180,60.0
+male,group D,some high school,standard,none,75,77,75,227,75.67
+male,group C,associate's degree,standard,none,86,69,68,223,74.33
+male,group D,high school,standard,none,80,80,83,243,81.0
+male,group B,bachelor's degree,standard,none,59,60,64,183,61.0
+male,group C,master's degree,standard,none,83,72,65,220,73.33
+female,group A,some high school,free/reduced,none,54,81,87,222,74.0
+male,group C,some college,standard,none,75,61,54,190,63.33
+male,group C,master's degree,standard,completed,72,64,65,201,67.0
+male,group C,some college,standard,none,69,56,52,177,59.0
+male,group D,bachelor's degree,standard,none,83,79,69,231,77.0
+male,group C,some college,standard,completed,61,71,69,201,67.0
+male,group C,high school,standard,none,100,95,74,269,89.67
+male,group B,high school,standard,none,45,59,48,152,50.67
+male,group C,high school,standard,completed,68,62,59,189,63.0
+male,group B,associate's degree,free/reduced,none,70,62,60,192,64.0
+male,group A,some college,free/reduced,completed,78,58,54,190,63.33
+male,group C,some college,free/reduced,completed,67,77,65,209,69.67
+female,group D,some college,standard,none,71,77,75,223,74.33
+female,group C,some college,free/reduced,none,70,70,75,215,71.67
+male,group C,bachelor's degree,free/reduced,none,61,69,69,199,66.33
+male,group C,master's degree,standard,none,93,72,68,233,77.67
+female,group D,some college,free/reduced,none,77,80,88,245,81.67
